@@ -12,7 +12,7 @@ var globalVar = 3;
  */
 
 /**
- * This is a global const.
+ * This is a real global const.
  * @default
  * @const
  */
